@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BubbleSort_Exercise\BubbleSort_Exercise\bin\Debug\netcoreapp2.1\BubbleSort_Exercise.deps.json
+C:\Users\User\source\repos\BubbleSort_Exercise\BubbleSort_Exercise\bin\Debug\netcoreapp2.1\BubbleSort_Exercise.runtimeconfig.json
+C:\Users\User\source\repos\BubbleSort_Exercise\BubbleSort_Exercise\bin\Debug\netcoreapp2.1\BubbleSort_Exercise.runtimeconfig.dev.json
+C:\Users\User\source\repos\BubbleSort_Exercise\BubbleSort_Exercise\bin\Debug\netcoreapp2.1\BubbleSort_Exercise.dll
+C:\Users\User\source\repos\BubbleSort_Exercise\BubbleSort_Exercise\bin\Debug\netcoreapp2.1\BubbleSort_Exercise.pdb
+C:\Users\User\source\repos\BubbleSort_Exercise\BubbleSort_Exercise\obj\Debug\netcoreapp2.1\BubbleSort_Exercise.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BubbleSort_Exercise\BubbleSort_Exercise\obj\Debug\netcoreapp2.1\BubbleSort_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BubbleSort_Exercise\BubbleSort_Exercise\obj\Debug\netcoreapp2.1\BubbleSort_Exercise.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BubbleSort_Exercise\BubbleSort_Exercise\obj\Debug\netcoreapp2.1\BubbleSort_Exercise.AssemblyInfo.cs
+C:\Users\User\source\repos\BubbleSort_Exercise\BubbleSort_Exercise\obj\Debug\netcoreapp2.1\BubbleSort_Exercise.dll
+C:\Users\User\source\repos\BubbleSort_Exercise\BubbleSort_Exercise\obj\Debug\netcoreapp2.1\BubbleSort_Exercise.pdb
